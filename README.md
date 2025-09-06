@@ -2,7 +2,7 @@
 
 An immersive 3D battlefield visualization built with Three.js and React. Explore a dynamic 3D environment with interactive elements and realistic terrain.
 
-![3D Battlefield Screenshot](C:\Battlefield\public\miltarybase.png)
+![3D Battlefield Screenshot](./public/miltarybase.png)
 
 ## 🚀 Features
 
